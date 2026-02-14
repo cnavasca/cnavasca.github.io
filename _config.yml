@@ -24,14 +24,14 @@ author:
   avatar           : "carm.png"
   name             : "Carmeliza Navasca"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Associate Professor"
   location         : "Earth"
-  employer         : "University of Alabama at Birmingham"
+  employer         : "UAB"
   uri              : # URL
   email            : "cnavasca@uab.edu"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/?query=carmeliza+navasca&searchtype=all&abstracts=show&order=-announced_date_first&size=50"
   googlescholar    : "https://scholar.google.com/citations?user=vmeLyO4AAAAJ&hl=en"
   researchgate     : "https://www.researchgate.net/profile/Carmeliza-Navasca"
 
