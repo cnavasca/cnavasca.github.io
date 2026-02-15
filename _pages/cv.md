@@ -14,9 +14,12 @@ Education
 * Ph.D in Applied Mathematics, UC Davis, 2002 
 * B.A. in Mathematics, UC Berkeley, 1996
 
-#Work experience
-#======
-#* Spring 2024: Academic Pages Collaborator
+<image src="/images/Navasca_CV_Jan2026.pdf"/>
+
+
+Work experience
+======
+* Spring 2024: Academic Pages Collaborator
  # * Github University
  # * Duties includes: Updates and improvements to template
  # * Supervisor: The Users
