@@ -14,8 +14,7 @@ Education
 * Ph.D in Applied Mathematics, UC Davis, 2002 
 * B.A. in Mathematics, UC Berkeley, 1996
 
-<image src="/images/Navasca_CV_Jan2026.pdf"/>
-
+<embed src="/images/Navasca_CV_Jan2026.pdf" type="application/pdf">
 
 Work experience
 ======
