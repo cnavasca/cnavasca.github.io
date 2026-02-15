@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV
 
 <embed src="/images/Navasca_CV_Jan2026.pdf" type="application/pdf">
 
